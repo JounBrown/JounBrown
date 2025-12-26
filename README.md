@@ -84,6 +84,12 @@
           <br>Next.js
         </td>
         <td align="center" style="border: none;">
+          <a href="https://ui.shadcn.com/" style="color: white;">
+            <img src="https://github.com/shadcn-ui.png" width="50" height="50" alt="Shadcn UI" style="border-radius: 10px;"/>
+          </a>
+          <br>Shadcn UI
+        </td>
+        <td align="center" style="border: none;">
           <a href="https://chakra-ui.com/" style="color: white;">
             <img src="https://cdn.simpleicons.org/chakraui/319795" width="50" height="50" alt="Chakra UI"/>
           </a>
