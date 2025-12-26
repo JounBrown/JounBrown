@@ -196,3 +196,130 @@
       </td>
 
 </div>
+
+<br>
+<div align="center">
+<table style="background-color: #1e1e2e; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: #cdd6f4;">Databases</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.postgresql.org/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" height="50" alt="PostgreSQL"/>
+        </a>
+        <br>PostgreSQL
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.mysql.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50" height="50" alt="MySQL"/>
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.mongodb.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/mongodb/47A248" width="50" height="50" alt="MongoDB"/>
+        </a>
+        <br>MongoDB
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        </td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: #cdd6f4;">Cloud, BaaS & Deployment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://aws.amazon.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS"/>
+        </a>
+        <br>AWS
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://azure.microsoft.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="50" height="50" alt="Azure"/>
+        </a>
+        <br>Azure
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://vercel.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/vercel/white" width="50" height="50" alt="Vercel"/>
+        </a>
+        <br>Vercel
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://render.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/render/white" width="50" height="50" alt="Render"/>
+        </a>
+        <br>Render
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://supabase.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="50" height="50" alt="Supabase"/>
+        </a>
+        <br>Supabase
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://clerk.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/clerk/6C47FF" width="50" height="50" alt="Clerk"/>
+        </a>
+        <br>Clerk
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.heroku.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/heroku/430098" width="50" height="50" alt="Heroku"/>
+        </a>
+        <br>Heroku
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.cloudflare.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="50" height="50" alt="Cloudflare"/>
+        </a>
+        <br>Cloudflare
+      </td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: #cdd6f4;">DevOps & Servers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.docker.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" height="50" alt="Docker"/>
+        </a>
+        <br>Docker
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.vagrantup.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/vagrant/1563FF" width="50" height="50" alt="Vagrant"/>
+        </a>
+        <br>Vagrant
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://nginx.org/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/nginx/009639" width="50" height="50" alt="Nginx"/>
+        </a>
+        <br>Nginx
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://httpd.apache.org/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/apache/D22128" width="50" height="50" alt="Apache"/>
+        </a>
+        <br>Apache
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
