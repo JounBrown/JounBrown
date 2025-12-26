@@ -114,25 +114,25 @@
     <tr>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://nodejs.org/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" height="50" alt="Node.js"/>
+          <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
         </a>
         <br>Node.js
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://expressjs.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/express/white" width="50" height="50" alt="Express"/>
+          <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express"/>
         </a>
         <br>Express
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://www.python.org/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/python/3776AB" width="50" height="50" alt="Python"/>
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python"/>
         </a>
         <br>Python
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://fastapi.tiangolo.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/fastapi/009688" width="50" height="50" alt="FastAPI"/>
+          <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"/>
         </a>
         <br>FastAPI
       </td>
@@ -147,13 +147,13 @@
     <tr>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://www.prisma.io/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/prisma/white" width="50" height="50" alt="Prisma"/>
+          <img src="https://skillicons.dev/icons?i=prisma" width="50" height="50" alt="Prisma"/>
         </a>
         <br>Prisma
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://sequelize.org/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/sequelize/52B0E7" width="50" height="50" alt="Sequelize"/>
+          <img src="https://skillicons.dev/icons?i=sequelize" width="50" height="50" alt="Sequelize"/>
         </a>
         <br>Sequelize
       </td>
@@ -176,13 +176,13 @@
     <tr>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://bun.sh/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/bun/white" width="50" height="50" alt="Bun"/>
+          <img src="https://skillicons.dev/icons?i=bun" width="50" height="50" alt="Bun"/>
         </a>
         <br>Bun
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://pnpm.io/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/pnpm/F69220" width="50" height="50" alt="pnpm"/>
+          <img src="https://skillicons.dev/icons?i=pnpm" width="50" height="50" alt="pnpm"/>
         </a>
         <br>pnpm
       </td>
