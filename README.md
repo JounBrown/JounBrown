@@ -323,3 +323,76 @@
   </tbody>
 </table>
 </div>
+
+<h3 align="center">Workflow & General Tools</h3>
+
+<div align="center">
+<table style="background-color: #1e1e2e; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: #cdd6f4;">Version Control & Design</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://git-scm.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/git/F05032" width="50" height="50" alt="Git"/>
+        </a>
+        <br>Git
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://github.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/github/white" width="50" height="50" alt="GitHub"/>
+        </a>
+        <br>GitHub
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.figma.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/figma/F24E1E" width="50" height="50" alt="Figma"/>
+        </a>
+        <br>Figma
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://obsidian.md/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/obsidian/483699" width="50" height="50" alt="Obsidian"/>
+        </a>
+        <br>Obsidian
+      </td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: #cdd6f4;">OS, Terminal & Editors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://linuxmint.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/linuxmint/87CF3E" width="50" height="50" alt="Linux Mint"/>
+        </a>
+        <br>Linux Mint
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.vim.org/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/vim/019733" width="50" height="50" alt="Vim"/>
+        </a>
+        <br>Vim
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://termius.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/termius/white" width="50" height="50" alt="Termius"/>
+        </a>
+        <br>Termius
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.gnu.org/software/bash/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/gnubash/white" width="50" height="50" alt="Bash"/>
+        </a>
+        <br>Bash
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
