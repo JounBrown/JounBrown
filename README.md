@@ -410,19 +410,19 @@
     <tr>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://openai.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/openai/white" width="50" height="50" alt="ChatGPT"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/>
         </a>
         <br>ChatGPT
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://www.anthropic.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/anthropic/white" width="50" height="50" alt="Claude"/>
+          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude"/>
         </a>
         <br>Claude
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://deepmind.google/technologies/gemini/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="50" height="50" alt="Gemini"/>
+          <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" width="50" height="50" alt="Gemini"/>
         </a>
         <br>Gemini
       </td>
@@ -436,25 +436,19 @@
     <tr>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://aws.amazon.com/bedrock/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/amazonaws/white" width="50" height="50" alt="AWS Bedrock"/>
+          <img src="https://www.awsicon.com/static/images/Service-Icons/Artificial-Intelligence/64/png5x/Bedrock.png" width="50" height="50" alt="AWS Bedrock"/>
         </a>
         <br>Bedrock
       </td>
       <td align="center" style="border: none; padding: 15px;">
-        <a href="https://grok.x.ai/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/x/white" width="50" height="50" alt="Grok"/>
-        </a>
-        <br>Grok
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
         <a href="https://qwenlm.github.io/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/alibaba/FF6A00" width="50" height="50" alt="Qwen"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Qwen_logo.svg/2048px-Qwen_logo.svg.png" width="50" height="50" alt="Qwen"/>
         </a>
         <br>Qwen
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://huggingface.co/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="50" height="50" alt="HuggingFace"/>
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="HuggingFace"/>
         </a>
         <br>HuggingFace
       </td>
@@ -463,7 +457,7 @@
 
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: #cdd6f4;">AI Engineering & Local Dev</th>
+      <th colspan="4" align="center" style="color: #cdd6f4;">AI Tools</th>
     </tr>
   </thead>
   <tbody>
