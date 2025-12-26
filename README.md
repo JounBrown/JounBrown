@@ -85,7 +85,7 @@
         </td>
         <td align="center" style="border: none;">
           <a href="https://chakra-ui.com/" style="color: white;">
-            <img src="https://skillicons.dev/icons?i=chakra" width="50" height="50" alt="Chakra UI"/>
+            <img src="https://cdn.simpleicons.org/chakraui/319795" width="50" height="50" alt="Chakra UI"/>
           </a>
           <br>Chakra UI
         </td>
