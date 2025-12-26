@@ -186,5 +186,13 @@
         </a>
         <br>pnpm
       </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.npmjs.com/" style="color: #cdd6f4;">
+          <img src="https://skillicons.dev/icons?i=npm" width="50" height="50" alt="npm"/>
+        </a>
+        <br>npm
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+      </td>
 
 </div>
