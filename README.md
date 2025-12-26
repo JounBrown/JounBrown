@@ -17,90 +17,94 @@
   <br>
   
   <h3>💻 Tech Stack</h3>
-  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af" alt="JS" />
+  
   
   
   <br>
 
-  <h3>⚙️ Herramientas & Entorno</h3>
-  <img src="https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=cba6f7" alt="Linux" />
   
 
   <br><br>
 
-  <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-
+  
 <h3 align="center">Web Development</h3>
-
 <div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <table style="background-color: #1e1e2e; border: none; border-radius: 15px; overflow: hidden;">
     <thead>
       <tr>
-        <th colspan="8" align="center" style="color: white;">Frontend</th>
+        <th colspan="5" align="center" style="color: #cdd6f4;">Core Languages & Styles</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-      <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+        <td align="center" style="border: none; padding: 15px;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: #cdd6f4;">
             <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
           </a>
           <br>HTML
         </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+        <td align="center" style="border: none; padding: 15px;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: #cdd6f4;">
             <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
           </a>
           <br>CSS
         </td>
-        <td align="center" style="border: none;">
-          <a href="https://tailwindcss.com/" style="color: white;">
+        <td align="center" style="border: none; padding: 15px;">
+          <a href="https://tailwindcss.com/" style="color: #cdd6f4;">
             <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
           </a>
-          <br>Tailwind CSS
+          <br>Tailwind
         </td>
-        <td align="center" style="border: none;">
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+        <td align="center" style="border: none; padding: 15px;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: #cdd6f4;">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
           </a>
           <br>JavaScript
         </td>
-        <td align="center" style="border: none;">
-          <a href="https://www.typescriptlang.org/" style="color: white;">
+        <td align="center" style="border: none; padding: 15px;">
+          <a href="https://www.typescriptlang.org/" style="color: #cdd6f4;">
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
           </a>
           <br>TypeScript
         </td>
-        <td align="center" style="border: none;">
-          <a href="https://reactjs.org/" style="color: white;">
+      </tr>
+    </tbody>
+    <thead>
+      <tr>
+        <th colspan="5" align="center" style="color: #cdd6f4;">Frameworks & UI Components</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none; padding: 15px;">
+          <a href="https://reactjs.org/" style="color: #cdd6f4;">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
           </a>
           <br>React
         </td>
-        <td align="center" style="border: none;">
-          <a href="https://nextjs.org/" style="color: white;">
+        <td align="center" style="border: none; padding: 15px;">
+          <a href="https://nextjs.org/" style="color: #cdd6f4;">
             <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
           </a>
           <br>Next.js
         </td>
-        <td align="center" style="border: none;">
-          <a href="https://ui.shadcn.com/" style="color: white;">
+        <td align="center" style="border: none; padding: 15px;">
+          <a href="https://ui.shadcn.com/" style="color: #cdd6f4;">
             <img src="https://github.com/shadcn-ui.png" width="50" height="50" alt="Shadcn UI" style="border-radius: 10px;"/>
           </a>
           <br>Shadcn UI
         </td>
-        <td align="center" style="border: none;">
-          <a href="https://chakra-ui.com/" style="color: white;">
+        <td align="center" style="border: none; padding: 15px;">
+          <a href="https://chakra-ui.com/" style="color: #cdd6f4;">
             <img src="https://cdn.simpleicons.org/chakraui/319795" width="50" height="50" alt="Chakra UI"/>
           </a>
           <br>Chakra UI
         </td>
+        <td align="center" style="border: none; padding: 15px;"></td>
       </tr>
     </tbody>
   </table>
 </div>
-
-
 <h3 align="center">Backend & Architecture</h3>
 
 <div align="center">
