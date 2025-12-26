@@ -453,6 +453,12 @@
         <br>HuggingFace
       </td>
     </tr>
+    <td align="center" style="border: none; padding: 15px;">
+        <a href="https://ollama.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/ollama/white" width="50" height="50" alt="Ollama"/>
+        </a>
+        <br>Ollama
+    </td>
   </tbody>
 
   <thead>
@@ -469,20 +475,14 @@
         <br>Copilot
       </td>
       <td align="center" style="border: none; padding: 15px;">
-        <a href="https://ollama.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/ollama/white" width="50" height="50" alt="Ollama"/>
-        </a>
-        <br>Ollama
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
         <a href="#" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="50" height="50" alt="Kiro IDE"/>
+          <img src="https://kiro.dev/icon.svg?fe599162bb293ea0" width="50" height="50" alt="Kiro IDE"/>
         </a>
         <br>Kiro IDE
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="#" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/google/4285F4" width="50" height="50" alt="Jules"/>
+          <img src="https://jules.google/squid.png" width="50" height="50" alt="Jules"/>
         </a>
         <br>Jules
       </td>
@@ -490,19 +490,19 @@
     <tr>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://lmstudio.ai/" style="color: #cdd6f4;">
-           <img src="https://img.icons8.com/ios-filled/50/cdd6f4/processor-ic.png" width="50" height="50" alt="LM Studio"/>
+           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gOLfQbyCjHdOuM8cWtYP1RzmnJUnP__Kgg&s" width="50" height="50" alt="LM Studio"/>
         </a>
         <br>LM Studio
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="#" style="color: #cdd6f4;">
-          <img src="https://img.icons8.com/ios-filled/50/cdd6f4/console.png" width="50" height="50" alt="Gemini CLI"/>
+          <img src="https://avatars.githubusercontent.com/u/228020938?v=4" width="50" height="50" alt="Gemini CLI"/>
         </a>
         <br>Gemini CLI
       </td>
        <td align="center" style="border: none; padding: 15px;">
         <a href="#" style="color: #cdd6f4;">
-          <img src="https://img.icons8.com/ios-filled/50/cdd6f4/code.png" width="50" height="50" alt="OpenCode"/>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8EMpKq5pu1s9DD8FfNbU2sdPmwUZffwwEjQ&s" width="50" height="50" alt="OpenCode"/>
         </a>
         <br>OpenCode
       </td>
