@@ -14,20 +14,8 @@
     Always seeking new challenges to turn ideas into efficient code.
   </p>
 
-  <br>
   
-  <h3>💻 Tech Stack</h3>
-  
-  
-  
-  <br>
-
-  
-
-  <br><br>
-
-  
-<h3 align="center">Web Development</h3>
+<h3 align="center">Web Development Stack</h3>
 <div align="center">
   <table style="background-color: #1e1e2e; border: none; border-radius: 15px; overflow: hidden;">
     <thead>
