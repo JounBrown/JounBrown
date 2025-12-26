@@ -29,17 +29,21 @@
   <br><br>
 
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JounBrown&card_width=320&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e00&show_icons=true&border_color=45475a&ring_color=89b4fa">
-      <img height=200 alt="Stats JounBrown" src="https://github-readme-stats.vercel.app/api?username=JounBrown&card_width=320&title_color=8839ef&icon_color=1e66f5&text_color=4c4f69&bg_color=eff1f500&show_icons=true&border_color=bcc0cc&ring_color=1e66f5">
-    </picture>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JounBrown&show_icons=true&theme=catppuccin_mocha&bg_color=transparent&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&border_color=45475a">
+        <img alt="JounBrown Stats" src="https://github-readme-stats.vercel.app/api?username=JounBrown&show_icons=true&theme=catppuccin_latte&bg_color=transparent&title_color=8839ef&icon_color=1e66f5&text_color=4c4f69&border_color=bcc0cc">
+      </picture>
+    </a>
   </p>
 
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JounBrown&layout=compact&langs_count=8&card_width=320&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e00&show_icons=true&border_color=45475a&hide_border=false">
-      <img height=200 alt="Top Langs JounBrown" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JounBrown&layout=compact&langs_count=8&card_width=320&title_color=8839ef&icon_color=1e66f5&text_color=4c4f69&bg_color=eff1f500&show_icons=true&border_color=bcc0cc&hide_border=false">
-    </picture>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JounBrown&layout=compact&langs_count=8&theme=catppuccin_mocha&bg_color=transparent&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&border_color=45475a">
+        <img alt="JounBrown Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JounBrown&layout=compact&langs_count=8&theme=catppuccin_latte&bg_color=transparent&title_color=8839ef&icon_color=1e66f5&text_color=4c4f69&border_color=bcc0cc">
+      </picture>
+    </a>
   </p>
 
 </div>
