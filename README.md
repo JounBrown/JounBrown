@@ -100,4 +100,91 @@
   </table>
 </div>
 
+
+<h3 align="center">Backend & Architecture</h3>
+
+<div align="center">
+<table style="background-color: #1e1e2e; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: #cdd6f4;">Core & Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://nodejs.org/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" height="50" alt="Node.js"/>
+        </a>
+        <br>Node.js
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://expressjs.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/express/white" width="50" height="50" alt="Express"/>
+        </a>
+        <br>Express
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.python.org/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/python/3776AB" width="50" height="50" alt="Python"/>
+        </a>
+        <br>Python
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://fastapi.tiangolo.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/fastapi/009688" width="50" height="50" alt="FastAPI"/>
+        </a>
+        <br>FastAPI
+      </td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: #cdd6f4;">ORMs (Database Bridges)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.prisma.io/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/prisma/white" width="50" height="50" alt="Prisma"/>
+        </a>
+        <br>Prisma
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://sequelize.org/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/sequelize/52B0E7" width="50" height="50" alt="Sequelize"/>
+        </a>
+        <br>Sequelize
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.sqlalchemy.org/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" width="50" height="50" alt="SQLAlchemy"/>
+        </a>
+        <br>SQLAlchemy
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+      </td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: #cdd6f4;">Runtimes & Managers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://bun.sh/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/bun/white" width="50" height="50" alt="Bun"/>
+        </a>
+        <br>Bun
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://pnpm.io/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/pnpm/F69220" width="50" height="50" alt="pnpm"/>
+        </a>
+        <br>pnpm
+      </td>
+
 </div>
