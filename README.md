@@ -28,22 +28,70 @@
 
   <br><br>
 
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JounBrown&show_icons=true&theme=catppuccin_mocha&bg_color=transparent&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&border_color=45475a">
-        <img alt="JounBrown Stats" src="https://github-readme-stats.vercel.app/api?username=JounBrown&show_icons=true&theme=catppuccin_latte&bg_color=transparent&title_color=8839ef&icon_color=1e66f5&text_color=4c4f69&border_color=bcc0cc">
-      </picture>
-    </a>
-  </p>
+  <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JounBrown&layout=compact&langs_count=8&theme=catppuccin_mocha&bg_color=transparent&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&border_color=45475a">
-        <img alt="JounBrown Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JounBrown&layout=compact&langs_count=8&theme=catppuccin_latte&bg_color=transparent&title_color=8839ef&icon_color=1e66f5&text_color=4c4f69&border_color=bcc0cc">
-      </picture>
-    </a>
-  </p>
+<h3 align="center">Web Development</h3>
+
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="8" align="center" style="color: white;">Frontend</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none;">
+          <a href="https://nextjs.org/" style="color: white;">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+          </a>
+          <br>Next.js
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://tailwindcss.com/" style="color: white;">
+            <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+          </a>
+          <br>Tailwind CSS
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://reactjs.org/" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+          </a>
+          <br>React
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://www.typescriptlang.org/" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+          </a>
+          <br>TypeScript
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+          </a>
+          <br>JavaScript
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://jquery.com/" style="color: white;">
+            <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
+          </a>
+          <br>jQuery
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+            <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+          </a>
+          <br>HTML
+        </td>
+        <td align="center" style="border: none;">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+            <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+          </a>
+          <br>CSS
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 </div>
