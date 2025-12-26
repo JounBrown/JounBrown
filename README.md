@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=220&section=header&text=Juan%20David&fontSize=70&fontColor=cdd6f4&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
+</div>
 
-<!--
-**JounBrown/JounBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <h2>🚀 Juan David Moreno Mañunga</h2>
+  <h3>Software Engineering Student | Full Stack Developer</h3>
+  
+  <br>
 
-Here are some ideas to get you started:
+  <p width="400px">
+    I'm a tech enthusiast who loves to <b>build</b>, <b>learn</b>, and <b>optimize</b>. <br>
+    Always seeking new challenges to turn ideas into efficient code.
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+  
+  <h3>💻 Tech Stack</h3>
+  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af" alt="JS" />
+  
+  
+  <br>
+
+  <h3>⚙️ Herramientas & Entorno</h3>
+  <img src="https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=cba6f7" alt="Linux" />
+  
+
+  <br><br>
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JounBrown&card_width=320&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e00&show_icons=true&border_color=45475a&ring_color=89b4fa">
+      <img height=200 alt="Stats JounBrown" src="https://github-readme-stats.vercel.app/api?username=JounBrown&card_width=320&title_color=8839ef&icon_color=1e66f5&text_color=4c4f69&bg_color=eff1f500&show_icons=true&border_color=bcc0cc&ring_color=1e66f5">
+    </picture>
+  </p>
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JounBrown&layout=compact&langs_count=8&card_width=320&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e00&show_icons=true&border_color=45475a&hide_border=false">
+      <img height=200 alt="Top Langs JounBrown" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JounBrown&layout=compact&langs_count=8&card_width=320&title_color=8839ef&icon_color=1e66f5&text_color=4c4f69&bg_color=eff1f500&show_icons=true&border_color=bcc0cc&hide_border=false">
+    </picture>
+  </p>
+
+</div>
