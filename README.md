@@ -452,13 +452,14 @@
         </a>
         <br>HuggingFace
       </td>
-    </tr>
-    <td align="center" style="border: none; padding: 15px;">
+      <td align="center" style="border: none; padding: 15px;">
         <a href="https://ollama.com/" style="color: #cdd6f4;">
           <img src="https://cdn.simpleicons.org/ollama/white" width="50" height="50" alt="Ollama"/>
         </a>
         <br>Ollama
     </td>
+    </tr>
+    
   </tbody>
 
   <thead>
