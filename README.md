@@ -209,19 +209,19 @@
     <tr>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://www.postgresql.org/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" height="50" alt="PostgreSQL"/>
+          <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL"/>
         </a>
         <br>PostgreSQL
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://www.mysql.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50" height="50" alt="MySQL"/>
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL"/>
         </a>
         <br>MySQL
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://www.mongodb.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/mongodb/47A248" width="50" height="50" alt="MongoDB"/>
+          <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
         </a>
         <br>MongoDB
       </td>
@@ -238,19 +238,19 @@
     <tr>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://aws.amazon.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS"/>
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS"/>
         </a>
         <br>AWS
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://azure.microsoft.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="50" height="50" alt="Azure"/>
+          <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="Azure"/>
         </a>
         <br>Azure
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://vercel.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/vercel/white" width="50" height="50" alt="Vercel"/>
+          <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel"/>
         </a>
         <br>Vercel
       </td>
@@ -264,7 +264,7 @@
     <tr>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://supabase.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="50" height="50" alt="Supabase"/>
+          <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase"/>
         </a>
         <br>Supabase
       </td>
@@ -276,13 +276,13 @@
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://www.heroku.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/heroku/430098" width="50" height="50" alt="Heroku"/>
+          <img src="https://skillicons.dev/icons?i=heroku" width="50" height="50" alt="Heroku"/>
         </a>
         <br>Heroku
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://www.cloudflare.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="50" height="50" alt="Cloudflare"/>
+          <img src="https://skillicons.dev/icons?i=cloudflare" width="50" height="50" alt="Cloudflare"/>
         </a>
         <br>Cloudflare
       </td>
@@ -297,7 +297,7 @@
     <tr>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://www.docker.com/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" height="50" alt="Docker"/>
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
         </a>
         <br>Docker
       </td>
@@ -309,7 +309,7 @@
       </td>
       <td align="center" style="border: none; padding: 15px;">
         <a href="https://nginx.org/" style="color: #cdd6f4;">
-          <img src="https://cdn.simpleicons.org/nginx/009639" width="50" height="50" alt="Nginx"/>
+          <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" alt="Nginx"/>
         </a>
         <br>Nginx
       </td>
