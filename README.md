@@ -396,3 +396,125 @@
   </tbody>
 </table>
 </div>
+
+<h3 align="center">Vibe Engineering</h3>
+
+<div align="center">
+<table style="background-color: #1e1e2e; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: #cdd6f4;">LLMs & Providers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://openai.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/openai/white" width="50" height="50" alt="ChatGPT"/>
+        </a>
+        <br>ChatGPT
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.anthropic.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/anthropic/white" width="50" height="50" alt="Claude"/>
+        </a>
+        <br>Claude
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://deepmind.google/technologies/gemini/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="50" height="50" alt="Gemini"/>
+        </a>
+        <br>Gemini
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://www.perplexity.ai/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/perplexity/white" width="50" height="50" alt="Perplexity"/>
+        </a>
+        <br>Perplexity
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://aws.amazon.com/bedrock/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/amazonaws/white" width="50" height="50" alt="AWS Bedrock"/>
+        </a>
+        <br>Bedrock
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://grok.x.ai/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/x/white" width="50" height="50" alt="Grok"/>
+        </a>
+        <br>Grok
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://qwenlm.github.io/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/alibaba/FF6A00" width="50" height="50" alt="Qwen"/>
+        </a>
+        <br>Qwen
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://huggingface.co/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="50" height="50" alt="HuggingFace"/>
+        </a>
+        <br>HuggingFace
+      </td>
+    </tr>
+  </tbody>
+
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: #cdd6f4;">AI Engineering & Local Dev</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://github.com/features/copilot" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/githubcopilot/white" width="50" height="50" alt="Copilot"/>
+        </a>
+        <br>Copilot
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://ollama.com/" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/ollama/white" width="50" height="50" alt="Ollama"/>
+        </a>
+        <br>Ollama
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="#" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="50" height="50" alt="Kiro IDE"/>
+        </a>
+        <br>Kiro IDE
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="#" style="color: #cdd6f4;">
+          <img src="https://cdn.simpleicons.org/google/4285F4" width="50" height="50" alt="Jules"/>
+        </a>
+        <br>Jules
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="https://lmstudio.ai/" style="color: #cdd6f4;">
+           <img src="https://img.icons8.com/ios-filled/50/cdd6f4/processor-ic.png" width="50" height="50" alt="LM Studio"/>
+        </a>
+        <br>LM Studio
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <a href="#" style="color: #cdd6f4;">
+          <img src="https://img.icons8.com/ios-filled/50/cdd6f4/console.png" width="50" height="50" alt="Gemini CLI"/>
+        </a>
+        <br>Gemini CLI
+      </td>
+       <td align="center" style="border: none; padding: 15px;">
+        <a href="#" style="color: #cdd6f4;">
+          <img src="https://img.icons8.com/ios-filled/50/cdd6f4/code.png" width="50" height="50" alt="OpenCode"/>
+        </a>
+        <br>OpenCode
+      </td>
+       <td align="center" style="border: none; padding: 15px;">
+         </td>
+    </tr>
+  </tbody>
+</table>
+</div>
