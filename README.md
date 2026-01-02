@@ -505,3 +505,37 @@
   </tbody>
 </table>
 </div>
+
+<h3 align="center">🌱 Currently Learning</h3>
+
+<div align="center">
+  <table style="background-color: #1e1e2e; border: none; border-radius: 15px; overflow: hidden;">
+    <thead>
+      <tr>
+        <th colspan="3" align="center" style="color: #cdd6f4;">Expanding Horizons</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="border: none; padding: 15px;">
+          <a href="https://aws.amazon.com/" style="color: #cdd6f4;">
+            <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="50" height="50" alt="AWS"/>
+          </a>
+          <br>AWS
+        </td>
+        <td align="center" style="border: none; padding: 15px;">
+          <a href="https://flutter.dev/" style="color: #cdd6f4;">
+            <img src="https://cdn.simpleicons.org/flutter/02569B" width="50" height="50" alt="Flutter"/>
+          </a>
+          <br>Flutter
+        </td>
+        <td align="center" style="border: none; padding: 15px;">
+          <a href="https://angular.io/" style="color: #cdd6f4;">
+            <img src="https://cdn.simpleicons.org/angular/DD0031" width="50" height="50" alt="Angular"/>
+          </a>
+          <br>Angular
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
